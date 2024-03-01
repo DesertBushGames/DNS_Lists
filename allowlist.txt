@@ -1,0 +1,6 @@
+@@|aax-eu.amazon.de^$important
+@@|emaillinks.soundiiz.com^$important
+@@|answers.unity.com^$important
+@@|cdn.onesignal.com^$important
+@@|onesignal.com^$important
+@@|click.discord.com^$important
