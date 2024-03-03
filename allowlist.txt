@@ -5,6 +5,4 @@
 @@|onesignal.com^$important
 @@|click.discord.com^$important
 @@|api.ipify.org^$important
-@@||disney.api.edge.bamgrid.com^$important
 @@||api-partner.spotify.com^$important
-@@||disney.my.sentry.io^$important
