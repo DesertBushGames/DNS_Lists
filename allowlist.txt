@@ -4,3 +4,4 @@
 @@|cdn.onesignal.com^$important
 @@|onesignal.com^$important
 @@|click.discord.com^$important
+@@|api.ipify.org^$important
