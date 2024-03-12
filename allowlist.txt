@@ -6,3 +6,4 @@
 @@|click.discord.com^$important
 @@|api.ipify.org^$important
 @@||api-partner.spotify.com^$important
+@@||www.facebook.com^$important
