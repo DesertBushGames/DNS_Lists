@@ -10,3 +10,4 @@
 @@||accounts.snap.com^$important
 @@||disney.api.edge.bamgrid.com^$important
 @@||news.google.com^$important
+@@||unpkg.com^important
