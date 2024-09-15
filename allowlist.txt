@@ -11,3 +11,4 @@
 @@||disney.api.edge.bamgrid.com^$important
 @@||news.google.com^$important
 @@||unpkg.com^important
+@@||static.wixstatic.com^important
