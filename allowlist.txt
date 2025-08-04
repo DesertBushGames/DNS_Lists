@@ -13,4 +13,4 @@
 @@|unpkg.com^important
 @@|static.wixstatic.com^important
 @@|amazonaws.com^$important
-@@|https://go.correctiv.org^$important
+@@|go.correctiv.org^$important
