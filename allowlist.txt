@@ -14,3 +14,4 @@
 @@|static.wixstatic.com^important
 @@|amazonaws.com^$important
 @@|go.correctiv.org^$important
+@@|service.freestylelibre.de^$important
