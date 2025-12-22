@@ -15,3 +15,6 @@
 @@|amazonaws.com^$important
 @@|go.correctiv.org^$important
 @@|service.freestylelibre.de^$important
+@@|auth.split.io^$important
+@@|sdk.split.io^$important
+@@|streaming.split.io^$important
