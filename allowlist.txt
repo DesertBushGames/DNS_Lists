@@ -10,8 +10,8 @@
 @@||accounts.snap.com^$important
 @@|disney.api.edge.bamgrid.com^$important
 @@|news.google.com^$important
-@@|unpkg.com^important
-@@|static.wixstatic.com^important
+@@|unpkg.com^$important
+@@|static.wixstatic.com^$important
 @@|amazonaws.com^$important
 @@|go.correctiv.org^$important
 @@|service.freestylelibre.de^$important
