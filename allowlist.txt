@@ -19,3 +19,4 @@
 @@|sdk.split.io^$important
 @@|streaming.split.io^$important
 @@|go.correctiv.org^$important
+@@|abbott.emsecure.net^$important
