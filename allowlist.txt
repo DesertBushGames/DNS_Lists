@@ -20,3 +20,4 @@
 @@|streaming.split.io^$important
 @@|go.correctiv.org^$important
 @@|abbott.emsecure.net^$important
+@@|auth.split.io^$important
