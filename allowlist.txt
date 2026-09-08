@@ -19,3 +19,4 @@ service.freestylelibre.de
 #sdk.split.io
 streaming.split.io
 abbott.emsecure.net
+app.adjust.com
