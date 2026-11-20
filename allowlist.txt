@@ -20,3 +20,4 @@ service.freestylelibre.de
 streaming.split.io
 abbott.emsecure.net
 app.adjust.com
+assets.sennheiser.com
